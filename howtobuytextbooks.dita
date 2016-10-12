@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_jqh_54d_px">
+    <title>How to Buy Textbooks:</title>
+    <shortdesc>Textbooks and other school supplies are a key component to becoming academically
+        succesful in college and specifically at Virginia Tech. Many professors require specific
+        books and materials for their courses and it is extremely difficult to do well without
+        acquiring these items. While some students choose to purchase their books after the first
+        week of classes, it is reccomended for transfer students to have them before the first day
+        of class so that they are fully prepared during this already stressful transition. </shortdesc>
+    <taskbody>
+        <context>With many different options for buying textbooks at Virginia Tech, use these steps
+            to accomplish the task most efficiently and easily at the on-campus Virginia Tech
+                Bookstore.<ol id="ol_qdz_tsd_px">
+                <li>Go to the bookstore - next to Newman Library and across the street from Hokie
+                    Grill.  <image
+                        href="../../../../Downloads/university-bookstore-virginia-tech.jpg"
+                        id="image_nmf_yvd_px"/></li>
+                <li>Take your wallet or form of payment with you but leave your bag and other
+                    belongings in a locker by the front entrance.</li>
+                <li>IF you know your classes already, move about the store to the different subjects
+                    and select the correct books from the shelves based on the course's CRN and
+                    professor.</li>
+                <li>IF you do not know your classes while you're at the store, go to the help desk
+                    in the front or middle of the store and ask an attendent to go select your books
+                    from the shelves for you.</li>
+                <li>Once you have the correct books in your hands, proceed to the checkout line to
+                    purchase your textbooks.<ol id="ol_s2z_5wd_px">
+                        <li>While in line, if you also need other materials such as notebooks, pens,
+                            pencils, etc., select these items from the shelves near the checkout
+                            counters.</li>
+                    </ol></li>
+                <li>During checkout, be sure to ask the employee if any books are available to rent
+                    so that you can purchase them at a discounted rate and return them at the end of
+                    the year.</li>
+                <li>Save your receipt in case you end up not needing a book after the first week of
+                    classes so that you can return it.<hazardstatement>
+                        <messagepanel id="messagepanel_qb4_bxd_px">
+                            <typeofhazard>Caution:</typeofhazard>
+                            <howtoavoid>If you take the plastic wrapper off of a textbook, you CAN
+                                NOT return it. Wait until the first day of class to assure that you
+                                need that book before opening it completely. </howtoavoid>
+                        </messagepanel>
+                    </hazardstatement></li>
+            </ol><p/></context>
+    </taskbody>
+</task>

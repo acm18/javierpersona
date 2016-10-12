@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_ayp_2kd_px">
+    <title>How to Meet with your Advisor:</title>
+    <shortdesc>Every student at Virginia Tech is given an academic advisor once they are enrolled.
+        While most students meet their primary advisor at orientation, it is possible for students
+        to have many advisors throughout their four or five years in college if they change majors,
+        transition from University Studies to a major, add a minor, transfer, etc. Meeting with your
+        advisor is  important for all students to assure they are on track for graduation
+        requirements, to gain assistance in signing up for classes, and to talk with a professional
+        about their plans for the future.</shortdesc>
+    <taskbody>
+        <context>As a transfer student, you will have been assigned a primary advisor once you
+            enrolled in Virginia Tech. Use these instructions to find out who your advisor is, how
+            to contact them, and why you might need to do so in the future.<ol id="ol_yd4_2md_px">
+                <li>Log on to HokieSPA with your PID and password at <xref
+                        href="https://banweb.banner.vt.edu/ssb/prod/twbkwbis.P_WWWLogin"
+                        format="html" scope="external"/> .</li>
+                <li>Select the tab "Hokie Spa" at the top of the page.</li>
+                <li>Scroll down from the top until you see "View your General Student Information"
+                    and click it.</li>
+                <li>Select from the dropdown options your academic current term (ie. Fall 2016 or
+                    Spring 2017).</li>
+                <li>Under the first section of information labeled,"Student Information effective
+                    from Fall," locate your Primary Advisor (marked in red).</li>
+                <li>Once you have located your advisor's name, select that text and copy it.</li>
+                <li>Open a new window or tab in your internet broswer.</li>
+                <li>Go to <xref href="http://www.vt.edu" format="html" scope="external"/>.</li>
+                <li>Paste your advisor's name into the search bar on the home page.</li>
+                <li>Select the tab "People" and you will see your advisor listed alongside their
+                    email address.<ul id="ul_iny_p4d_px">
+                        <li>Once you've aquired your advisor's email, you can use this contact
+                            information to set up an appointment, ask them questions, and learn more
+                            about the advising process as a whole.</li>
+                    </ul></li>
+            </ol><p/></context>
+    </taskbody>
+</task>
